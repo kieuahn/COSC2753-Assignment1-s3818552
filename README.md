@@ -1,4 +1,4 @@
-# COSC2753 Assignment 1 – README (s3818552)
+# COSC2753 Assignment 1 – s3818552
 
 ## Folder Structure
 
@@ -66,7 +66,7 @@ COSC2753_A1_Predictions_s3818552.csv
 - Source Code ZIP: `COSC2753_A1_s3818552.zip`
 - Includes all notebooks, processed files, and this README
 
-## 🧠 Notes
+## Notes
 
 - Final model selected: **Gradient Boosting Regressor**
 - All models are trained with 5-fold cross-validation and validated using R², RMSE, MAE, MAPE, and generalization gap analysis.
